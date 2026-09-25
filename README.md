@@ -1,11 +1,11 @@
 # Minakshi_123
-# Hi, I'm Minakshi 👋
+# Hi, I'm Minakshi 
 
 ## Data Science & Machine Learning Portfolio
 
 I am learning Data Science, Machine Learning and Power BI.
 
-### 🛠️ Skills
+###  Skills
 - Python
 - Pandas
 - NumPy
@@ -15,7 +15,7 @@ I am learning Data Science, Machine Learning and Power BI.
 - SQL
 - Git & GitHub
 
-## 📊 Projects
+##  Projects
 
 ### 1. Student Performance Prediction
 Machine Learning project to predict student final marks.
@@ -38,14 +38,14 @@ Interactive Power BI dashboard for sales analysis.
 
 [View Project](./projects/superstore-powerbi/)
 
-## 📄 Resume
+##  Resume
 
 [Download My Resume](./resume.pdf)
 
-## 📫 Contact
+##  Contact
 
 Email: your-email@example.com
 Minakshi_Resume.pdf
-## 📄 Resume
+##  Resume
 
 [View My Resume](./Minakshi_Resume.pdf)
