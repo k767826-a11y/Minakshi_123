@@ -5,6 +5,13 @@
 
 I am learning Data Science, Machine Learning and Power BI.
 
+##About me
+Diploma computer engineering
+Currently learning Machine learning & AI
+Interested in Python.
+Hobbies: Listening music.
+
+
 ###  Skills
 - Python
 - Pandas
@@ -14,6 +21,21 @@ I am learning Data Science, Machine Learning and Power BI.
 - Power BI
 - SQL
 - Git & GitHub
+- 
+- ###Data Analysis
+- NUMPY
+- Pandas
+- Matplotlib
+
+- ###Web Development
+- HTML
+- CSS
+- PHP
+- MySQL
+
+- ###Tools
+- Git &Github
+- vs code
 
 ##  Projects
 
@@ -22,21 +44,23 @@ Machine Learning project to predict student final marks.
 
 **Technologies:** Python, Pandas, Scikit-learn, Linear Regression
 
-[View Project](./projects/student-performance-ml/)
 
 ### 2. House Price Prediction
 Predict house prices using area, bedrooms and age.
 
 **Technologies:** Python, Pandas, Scikit-learn
 
-[View Project](./projects/house-price-prediction/)
-
 ### 3. Superstore Sales Dashboard
 Interactive Power BI dashboard for sales analysis.
 
-**Technologies:** Power BI, Excel/CSV
+**Technologies:** Power BI, Excel/Csv
 
-[View Project](./projects/superstore-powerbi/)
+##Education
+###Diploma in Computer Engineering
+
+**10th:97%
+**12th:76%
+
 
 ##  Resume
 
